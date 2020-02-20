@@ -1,2 +1,2 @@
-# Uso-b-sico-de-HTML5-e-CSS
+# Uso-básico-de-HTML5-e-CSS
 utilizando conceitos básicos de HTML5 e CSS
